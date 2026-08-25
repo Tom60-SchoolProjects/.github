@@ -1,10 +1,11 @@
 ## Tom60 - School projects
 
-You will find here most of my computer science school projects.
-Vous trouverez ici la plupart de mes projets en informatique.
+**EN:** You will find here most of my computer science school projects.  
+**FR:** Vous trouverez ici la plupart de mes projets en informatique.
 
 ### School
 
+- 2025 - 2028 : UPJV FOAD Amiens
 - 2020 - 2023 : IUT d'Amiens
 
 <!--
