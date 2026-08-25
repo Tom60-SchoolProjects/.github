@@ -1,7 +1,7 @@
 ## Tom60 - School projects
 
 **EN:** You will find here most of my computer science school projects.  
-**FR:** Vous trouverez ici la plupart de mes projets en informatique.
+**FR:** Vous trouverez ici la plupart de mes projets scolaire en informatique.
 
 ### School
 
